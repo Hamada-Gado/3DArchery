@@ -84,11 +84,17 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="src\arrow.cpp" />
+    <ClCompile Include="src\bow.cpp" />
     <ClCompile Include="src\camera.cpp" />
     <ClCompile Include="src\game.cpp" />
     <ClCompile Include="src\keyhandler.cpp" />
     <ClCompile Include="src\object.cpp" />
     <ClCompile Include="src\player.cpp" />
+    <ClCompile Include="src\quiver.cpp" />
+    <ClCompile Include="src\table.cpp" />
+    <ClCompile Include="src\target.cpp" />
+    <ClCompile Include="src\traning_dummy.cpp" />
+    <ClCompile Include="src\util.cpp" />
     <ClCompile Include="src\vector3f.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
